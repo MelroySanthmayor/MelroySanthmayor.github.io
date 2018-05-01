@@ -1,8 +1,8 @@
 body {
-    background:url("https://media.giphy.com/media/lZ3zno2jdkh5S/giphy.gif") repeat-y 100% 100% fixed;
-    height:100%;
-    width:100%;
+    background:url("https://media.giphy.com/media/lZ3zno2jdkh5S/giphy.gif") /*repeat-y 100% 100%*/ fixed;
+    background-size: cover;
 }
+
 
 
 .map{
@@ -10,8 +10,4 @@ body {
     height:500px;
     
 
-}
-.image{
-    width:100%;
-    height:100%;
 }
