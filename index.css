@@ -2,7 +2,14 @@ body {
     background:url("https://media.giphy.com/media/lZ3zno2jdkh5S/giphy.gif") /*repeat-y 100% 100%*/ fixed;
     background-size: cover;
 }
-
+.header{
+    width: 100%;
+    height:30%;
+    background-color: black;
+    opacity: 0.6;
+    color:whitesmoke;
+    text-align: center;
+}
 
 
 .map{
