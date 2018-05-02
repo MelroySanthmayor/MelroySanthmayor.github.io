@@ -14,7 +14,7 @@ new Vue({                              //initailising vue instance
             type: "marker",
             content: '<b>Wed May 2 (20 ovs) 20:00 local (14:30 GMT)</b><br><b>32nd match - Delhi Daredevils v Rajasthan Royals</b><br><a href="https://www.firstpost.com/firstcricket/points-table/series/IPL-2018.html">Points Table</a>',
             coords: [28.6377383, 77.24302369999998],
-            imageurl: "feroz%20shah%20kotla.png"
+            imageurl: "images/feroz%20shah%20kotla.png"
           },
           {
             id: 1,
