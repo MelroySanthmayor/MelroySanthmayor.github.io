@@ -1,6 +1,11 @@
 body {
     background:url("https://media.giphy.com/media/lZ3zno2jdkh5S/giphy.gif") /*repeat-y 100% 100%*/ fixed;
     background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -o-background-size:cover;
+
 }
 .header{
     width: 100%;
