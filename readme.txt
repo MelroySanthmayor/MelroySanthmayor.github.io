@@ -1,4 +1,4 @@
-# **IPL FIXTURES APP**
+##**IPL FIXTURES APP**
 The IPL Tournament is being depicted through this map, 
 upto 8 upcoming matches and the stadiums where they are played at,
 prominent players from given states and their history,
